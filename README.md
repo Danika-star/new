@@ -1,9 +1,9 @@
-# :cherry_blossom: Semantic segmentation on 360° images
+# :cherry_blossom: Semantic segmentation on 360° images :cherry_blossom:
 
 ---
 
 
-<p align="center"> :rocket: Model yolact(4th experiment_120), 665ba25f92424b03aa8265cd9cedb76f.jpg :rocket:
+<p align="center"> :tea: Model yolact(4th experiment_120), 665ba25f92424b03aa8265cd9cedb76f.jpg :tea:
 </p>
 
 ---

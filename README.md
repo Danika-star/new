@@ -1,4 +1,4 @@
-# :tada: Semantic segmentation on 360° images
+# :sparkles: Semantic segmentation on 360° images
 
 ---
 

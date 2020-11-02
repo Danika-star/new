@@ -1,4 +1,5 @@
-# :cherry_blossom: Semantic segmentation on 360° images :cherry_blossom:
+<p align="center"> <b> :cherry_blossom: Semantic segmentation on 360° images :cherry_blossom: </b>
+</p>
 
 ---
 

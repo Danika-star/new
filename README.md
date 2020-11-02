@@ -3,7 +3,7 @@
 
 ## Dataset :
 
-The dataset is put in folder : /smarterplan-mtf/indoor_trainR_valR/
+The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
 - trainR/images/ : all the training images
 - trainR/trainval.json : the json file of annotation(training)
 - valR/images/ : all the validation images

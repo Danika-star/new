@@ -1,4 +1,4 @@
-# :tada: Detection on 360° images
+# :tada: Semantic segmentation on 360° images
 
 ---
 

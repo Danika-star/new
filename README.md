@@ -1,4 +1,4 @@
-<p style = "font-size:50px"> <b> :cherry_blossom: Semantic segmentation on 360° images :cherry_blossom: </b>
+<p style = "font-size:2000px"> <b> :cherry_blossom: Semantic segmentation on 360° images :cherry_blossom: </b>
 </p>
 
 ---

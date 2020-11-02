@@ -1,4 +1,4 @@
-# Detection on 360° images
+:tada: # Detection on 360° images
 
 ---
 

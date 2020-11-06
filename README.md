@@ -14,6 +14,7 @@
 
 <details>
   <summary> notes : </summary>
+  
   1. From lableme to coco : [This github](https://github.com/Tony607/labelme2coco.git)
 </details>
 
@@ -26,6 +27,7 @@ The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
 ## :computer: Training :
 <details>
   <summary> notes : </summary>
+  
   1. Please, make sure your pc has appropiate GPU.
   2. Finetune : Please, go to this [link](https://github.com/dbolya/yolact/issues/36) for instruction.
   3. To change configuration : [file](/smarterplan-mtf/yolact/data/config.py). Please, create a variable in section `YOLACT v1.0 CONFIGS`.

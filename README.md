@@ -29,6 +29,7 @@ The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
   1. Please, make sure your pc has appropiate GPU.
   2. Finetune : Please, go to this [link](https://github.com/dbolya/yolact/issues/36) for instruction.
   3. To change configuration : [file](/smarterplan-mtf/yolact/data/config.py). Please, create a variable in section `YOLACT v1.0 CONFIGS`.
+</details>
 1. Change the config in file : `/smarterplan-mtf/yolact/data/config.py`
 
 2. run `/smarterplan-mtf/yolact/train.py`

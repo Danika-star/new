@@ -15,7 +15,6 @@
 <details>
   <summary> notes : </summary>
   1. From lableme to coco : [This github](https://github.com/Tony607/labelme2coco.git)
-  2. From mask to polygon : Inspire from [here](https://github.com/cocodataset/cocoapi/issues/131)
 </details>
 
 The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
@@ -27,9 +26,9 @@ The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
 ## :computer: Training :
 <details>
   <summary> notes : </summary>
-  1. Finetune : Please look [here](https://github.com/dbolya/yolact/issues/36)
-</details>
-
+  1. Please, make sure your pc has appropiate GPU.
+  2. Finetune : Please, go to this [link](https://github.com/dbolya/yolact/issues/36) for instruction.
+  3. To change configuration : <a link>(/smarterplan-mtf/yolact/data/config.py)
 1. Change the config in file : `/smarterplan-mtf/yolact/data/config.py`
 
 2. run `/smarterplan-mtf/yolact/train.py`

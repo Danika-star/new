@@ -18,6 +18,8 @@
   1. From lableme to coco : From [this github](https://github.com/Tony607/labelme2coco.git), please use this [file](https://github.com/Tony607/labelme2coco/blob/master/labelme2coco.py) to generate the coco json.
 </details>
 
+#
+
 The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
 - `trainR/images/` : all the training images
 - `trainR/trainval.json` : the json file of annotation(training)

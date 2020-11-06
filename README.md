@@ -15,7 +15,7 @@
 <details>
   <summary> notes : </summary>
   
-  1. From lableme to coco : [This github](https://github.com/Tony607/labelme2coco.git)
+  1. From lableme to coco : From [this github](https://github.com/Tony607/labelme2coco.git), please use the [file](https://github.com/Tony607/labelme2coco/blob/master/labelme2coco.py) to generate teh coco json.
 </details>
 
 The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
@@ -30,10 +30,10 @@ The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
   
   1. Please, make sure your pc has appropiate GPU.
   2. Finetune : Please, go to this [link](https://github.com/dbolya/yolact/issues/36) for instruction.
-  3. To change configuration : [file](/smarterplan-mtf/yolact/data/config.py). Please, create a variable in section `YOLACT v1.0 CONFIGS`.
+  3. To change configuration : Here is the [file](/smarterplan-mtf/yolact/data/config.py). Please, create a variable in section `YOLACT v1.0 CONFIGS`.
 </details>
-1. Change the config in file : `/smarterplan-mtf/yolact/data/config.py`
 
+1. Change the config in file : `/smarterplan-mtf/yolact/data/config.py`
 2. run `/smarterplan-mtf/yolact/train.py`
 ```
 python train.py --config=yolact_resnet101_indoor1216R_all4_add_config --batch_size=3

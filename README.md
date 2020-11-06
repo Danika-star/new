@@ -15,7 +15,7 @@
 <details>
   <summary> notes : </summary>
   
-  1. From lableme to coco : From [this github](https://github.com/Tony607/labelme2coco.git), please use the [file](https://github.com/Tony607/labelme2coco/blob/master/labelme2coco.py) to generate teh coco json.
+  1. From lableme to coco : From [this github](https://github.com/Tony607/labelme2coco.git), please use this [file](https://github.com/Tony607/labelme2coco/blob/master/labelme2coco.py) to generate the coco json.
 </details>
 
 The dataset is put in folder : `/smarterplan-mtf/indoor_trainR_valR/`
